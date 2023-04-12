@@ -1,0 +1,16 @@
+1. must be able to make,and track orders.
+a. cart- way for customers to add and remove items they want 
+or dont want as they navigate. this should also be used to tell aaron what needs to be shipped
+2. a way to notify aaron an order was placved and what that order is via email. also notifies 
+customer that order was sent to aaron and any other needed info.
+3. database for user data to be mainatined until order completion. should update existing data 
+if needed, delete and post any new data.
+a. for example: customer order once placed should postand then email service should grtab data 
+needed to send emails from there.
+b. support system shoul be able to do the same matchinmg requests from suppoort form to user info 
+and users order info in order to help them.
+4. cloudinary image hosting for inventory photos
+
+
+
+
